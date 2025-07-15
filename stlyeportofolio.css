@@ -1,0 +1,53 @@
+*,html{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    padding: 30px;
+    margin: 30px auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+body{
+background-color: powderblue;
+}
+    
+
+.JUDUL{
+    background-color: deepskyblue;
+    margin-bottom:5px;
+}
+
+.container-data{
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+
+.ul-data{
+    background-color: azure;
+}
+
+.container-pendidikan{
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+
+.ul-pendidikan{
+    background-color: azure;
+}
+
+.container-hobi{
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+
+.ul-hobi{
+    background-color: azure;
+}

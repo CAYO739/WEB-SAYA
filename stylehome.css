@@ -1,0 +1,26 @@
+        .welcome-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        p {
+            font-size: 1rem;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        .container-utama{
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            background: powderblue;
+            color: #333;
+            text-align: center;
+            padding: 150px 20px;
+            margin: 0;
+        }
